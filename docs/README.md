@@ -1,6 +1,6 @@
 <img width="1280" height="640" alt="memory-exe-header" src="https://github.com/ItsKareem/memory.exe/blob/main/images/memory-exe-header.png" />
 
-# An RP2040 devbourd that doubles as a flash drive ˚₊‧ʚ🐞ɞ
+# An RP2040 devboard (doubles as a flash drive) ˚₊‧ʚ🐞ɞ
 
 Memory.exe is a fully programmable RP2040 microcontroller with onboard flash storage, featuring custom pixel silkscreen art inspired by old desktop aesthetics. I designed the board around the idea of preserving memories to make it more personal than an average devboard. I hope this project can be used for createve coding/hardware projects.
 
